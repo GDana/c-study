@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int main1(void)
 {
 	// 정수형 변수에 대한 예제
 	/*
