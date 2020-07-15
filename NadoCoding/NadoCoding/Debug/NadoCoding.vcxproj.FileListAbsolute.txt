@@ -1,0 +1,2 @@
+C:\Dev\c-study\NadoCoding\NadoCoding\Debug\NadoCoding.exe
+C:\Dev\c-study\NadoCoding\NadoCoding\Debug\NadoCoding.pdb
