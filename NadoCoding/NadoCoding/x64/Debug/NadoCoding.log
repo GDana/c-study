@@ -1,6 +1,40 @@
-﻿  array_project.c
-C:\Dev\c-study\NadoCoding\NadoCoding\array_project.c(6,7): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Dev\c-study\NadoCoding\NadoCoding\array_project.c(9,22): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Dev\c-study\NadoCoding\NadoCoding\array_project.c(25,38): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
-C:\Dev\c-study\NadoCoding\NadoCoding\array_project.c(25,38): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+﻿  pointer.c
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(13,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(13,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(14,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(14,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(15,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(15,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(20,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(20,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(23,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(23,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(26,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(26,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(31,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(31,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(35,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(35,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(39,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(39,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(48,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(48,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(52,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(52,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(56,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(56,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(60,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(60,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(61,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(61,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(62,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(62,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(65,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(65,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int **' 형식)과(와) 충돌합니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(66,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(66,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int **' 형식)과(와) 충돌합니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(92,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(92,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(93,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\pointer.c(93,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
   NadoCoding.vcxproj -> C:\Dev\c-study\NadoCoding\x64\Debug\NadoCoding.exe
