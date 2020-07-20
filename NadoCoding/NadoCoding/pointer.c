@@ -4,7 +4,7 @@ void swap(int a, int b);
 void swap_addr(int * a, int * b);
 void changeArray(int* ptr);
 
-int main(void) 
+int main_7(void) 
 {
 	// Ã¶¼ö : 101È£
 	// ¿µÈñ : 201È£
