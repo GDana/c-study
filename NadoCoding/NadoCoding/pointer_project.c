@@ -15,7 +15,7 @@ void printFishes();
 void decreaseWater();
 int checkFishAlive();
 
-int main(void) {
+int main_pointer_project(void) {
 	long startTime = 0;	//게임 시작 시간
 	long totalElapsedTime = 0;	//총 경과 시간
 	long prevElapesdTime = 0;	//직전 경과 시간(최근에 물을 준 시간 간격)
