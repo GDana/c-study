@@ -1,7 +1,4 @@
-﻿  m_array.c
-C:\Dev\c-study\NadoCoding\NadoCoding\m_array.c(9,6): warning C4101: 'arr' :참조되지 않은 지역 변수입니다.
-C:\Dev\c-study\NadoCoding\NadoCoding\m_array.c(13,6): warning C4101: 'arr2' :참조되지 않은 지역 변수입니다.
-C:\Dev\c-study\NadoCoding\NadoCoding\m_array.c(6,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
-C:\Dev\c-study\NadoCoding\NadoCoding\m_array.c(33,6): warning C4101: 'arr4' :참조되지 않은 지역 변수입니다.
-C:\Dev\c-study\NadoCoding\NadoCoding\m_array.c(21,6): warning C4101: 'arr3' :참조되지 않은 지역 변수입니다.
+﻿  m_array_project.c
+C:\Dev\c-study\NadoCoding\NadoCoding\m_array_project.c(24,7): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Dev\c-study\NadoCoding\NadoCoding\m_array_project.c(128,21): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   NadoCoding.vcxproj -> C:\Dev\c-study\NadoCoding\x64\Debug\NadoCoding.exe
