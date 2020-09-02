@@ -1,5 +1,2 @@
 ﻿  malloc.c
-C:\Dev\c-study\Practice\Practice\malloc.c(19,19): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
-C:\Dev\c-study\Practice\Practice\malloc.c(28,12): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'Person'입니다.
-C:\Dev\c-study\Practice\Practice\malloc.c(16,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
   Practice.vcxproj -> C:\Dev\c-study\Practice\Debug\Practice.exe

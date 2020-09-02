@@ -1,32 +1,26 @@
-#define _CRT_SECURE_NO_WARNINGS   
 #include <stdio.h>
-#include <string.h>    
-#include <stdlib.h>    
 
-struct Person {    
-    char name[20];        
-    float age;
-    char address[100];    
-    float* career;          // 구조체의 포인터 멤버 
-};
+// 덧셈 함수
+int add(int a, int b)    // int형 반환값, int형 매개변수 두 개
+{
+    return a + b;
+}
+
+// 곱셈 함수
+int mul(int a, int b)    // int형 반환값, int형 매개변수 두 개
+{
+    return a * b;
+}
 
 int main()
 {
-    struct Person* p1 = malloc(sizeof(struct Person));    
-    float num = 0.2;
+    int (*fp)(int, int);    // int형 반환값, int형 매개변수 두 개가 있는 함수 포인터 fp 선언
 
-    strcpy(p1->name, "김현선");
-    p1->age = 29.9;
-    strcpy(p1->address, "부천시 어딘구 어디동");
-    p1->career = &num;
+    fp = add;                      // add 함수의 메모리 주소를 함수 포인터 fp에 저장
+    printf("%d\n", fp(10, 20));    // 30: 함수 포인터로 add 함수를 호출하여 합을 구함
 
-    printf("이름: %s\n", p1->name);       // 홍길동
-    printf("나이: %f\n", p1->age);        // 30
-    printf("주소: %s\n", p1->address);    // 서울시 용산구 한남동
-    printf("개발 경력: %f\n", *p1->career);
-    printf("개발 경력: %f\n", *(*p1).career);
- 
-    free(p1);    // 동적 메모리 해제
+    fp = mul;                      // mul 함수의 메모리 주소를 함수 포인터 fp에 저장
+    printf("%d\n", fp(10, 20));    // 200: 함수 포인터로 mul 함수를 호출하여 곱을 구함
 
     return 0;
 }
