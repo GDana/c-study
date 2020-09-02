@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\NadoCoding",
-    "\\NadoCoding\\NadoCoding"
+    "\\HelloWorld",
+    "\\HelloWorld\\HelloWorld",
+    "\\NadoCoding"
   ],
-  "SelectedNode": "\\NadoCoding\\NadoCoding.sln",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
